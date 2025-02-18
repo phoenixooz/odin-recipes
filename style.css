@@ -1,0 +1,15 @@
+<!--style for index.html-->
+
+body {background-color: lightskyblue}
+
+
+#title {
+    font-weight: 900;
+    font-variant: small-caps;
+    text-align: center;
+    color:#e79d53;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
