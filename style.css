@@ -1,15 +1,26 @@
-<!--style for index.html-->
+<!--style for index.html and recipes-->
 
-body {background-color: lightskyblue}
-
+html, body {background-color:rgba(164, 226, 255, 0.733);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    ;
+}
 
 #title {
     font-weight: 900;
-    font-variant: small-caps;
     text-align: center;
+    font-variant: small-caps;
+    font-size: larger;
     color:#e79d53;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+
+
+
+
