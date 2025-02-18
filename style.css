@@ -16,10 +16,13 @@ html, body {background-color:rgba(164, 226, 255, 0.733);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p {text-align: center;
+.home-list p {text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 
+#recipe {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
 
 
 
